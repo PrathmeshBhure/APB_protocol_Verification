@@ -1,0 +1,5 @@
+  CREATE_STREAM @0 {NAME:h_vseq T:Transactions SCOPE:uvm_test_top.h_env.h_vseqr STREAM:880}
+  CREATE_STREAM @0 {NAME:h_apb_seq T:Transactions SCOPE:uvm_test_top.h_env.h_master_agent.h_seqr STREAM:919}
+  CREATE_STREAM @26 {NAME:h_mul_wr_seq T:Transactions SCOPE:uvm_test_top.h_env.h_master_agent.h_seqr STREAM:1048}
+  CREATE_STREAM @146 {NAME:h_mul_rd_seq T:Transactions SCOPE:uvm_test_top.h_env.h_master_agent.h_seqr STREAM:1488}
+  CREATE_STREAM @266 {NAME:h_alt_wr_rd_seq T:Transactions SCOPE:uvm_test_top.h_env.h_master_agent.h_seqr STREAM:2314}
